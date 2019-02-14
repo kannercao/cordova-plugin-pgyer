@@ -1,22 +1,22 @@
 {
   "_args": [
     [
-      "pgyerplugin@1.0.2",
+      "cordova-plugin-pgyer@1.0.2",
       "D:\\work-shine\\txxmapp"
     ]
   ],
-  "_from": "pgyerplugin@1.0.2",
-  "_id": "pgyerplugin@1.0.2",
+  "_from": "cordova-plugin-pgyer@1.0.2",
+  "_id": "cordova-plugin-pgyer@1.0.2",
   "_inBundle": false,
   "_integrity": "sha512-Ab+zW6YOxYNZ+G3050vsPzCJ1zGr7iMHUQHh3jkfSoWgH4BFyXkpzbizyLOHjKoWCvKNWTw9W8Ibi/3Gf9/gcw==",
-  "_location": "/pgyerplugin",
+  "_location": "/cordova-plugin-pgyer",
   "_phantomChildren": {},
   "_requested": {
     "type": "version",
     "registry": true,
-    "raw": "pgyerplugin@1.0.2",
-    "name": "pgyerplugin",
-    "escapedName": "pgyerplugin",
+    "raw": "cordova-plugin-pgyer@1.0.2",
+    "name": "cordova-plugin-pgyer",
+    "escapedName": "cordova-plugin-pgyer",
     "rawSpec": "1.0.2",
     "saveSpec": null,
     "fetchSpec": "1.0.2"
@@ -24,7 +24,7 @@
   "_requiredBy": [
     "/"
   ],
-  "_resolved": "https://registry.npmjs.org/pgyerplugin/-/pgyerplugin-1.0.2.tgz",
+  "_resolved": "",
   "_spec": "1.0.2",
   "_where": "D:\\work-shine\\txxmapp",
   "author": {
@@ -33,7 +33,7 @@
   "description": "蒲公英SDK Cordova插件",
   "license": "ISC",
   "main": "index.js",
-  "name": "pgyerplugin",
+  "name": "cordova-plugin-pgyer",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
